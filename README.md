@@ -176,21 +176,6 @@ FlaskBlog has been an enriching journey, marking a significant milestone in my d
 Embarking on the FlaskBlog project has been immensely rewarding, not only in terms of skill enhancement but also in personal fulfillment. As a full-stack developer, this endeavor has honed my abilities and deepened my passion for crafting elegant, functional solutions. I take pride in the outcome of this project and sincerely hope it resonates with you as well. 😊
 
 
-## ✨ Stars
-
-[![Stargazers for @DogukanUrker/flaskBlog](http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?theme=dark&user=DogukanUrker&repo=flaskBlog)](https://github.com/DogukanUrker/flaskBlog/stargazers)
-
-## 🍴 Forks
-
-[![Forkers for @DogukanUrker/flaskBlog](http://bytecrank.com/nastyox/reporoster/php/forkersSVG.php?theme=dark&user=DogukanUrker&repo=flaskBlog)](https://github.com/DogukanUrker/flaskBlog/network/members)
-
-## 💰 Support
-
-<a href="https://dogukanurker.com/donate" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=dogukanurker/flaskblog&type=Date)](https://star-history.com/#dogukanurker/flaskblog&Date)
 
 ## ⚠️ Warning
 
