@@ -2,14 +2,8 @@
 
 ![appLight](/images/Light.png)
 
-# [FlaskBlog](https://dogukanurker.com/flaskblog)
-
-**English** | [Türkçe](docs/readme_tr.md) | [Russian](docs/readme_ru.md)
 
 📜 **Simple blog app built with Flask.**
-
-[📧 Contact](mailto:dogukanurker@icloud.com)<br/>
-[👨🏻‍💻 Dogukan Urker](https://dogukanurker.com)
 
 [📸 Images](https://github.com/DogukanUrker/flaskBlog/tree/master/images)<br/>
 [📽️ Preview Video](https://youtu.be/WyIpAlSp2RM)<br/>
